@@ -1,2 +1,13 @@
-# -
-CNN을 이용한 영상 자동 모자이크 시스템
+# CNN을 이용한 영상 자동 모자이크 시스템
+![img](https://user-images.githubusercontent.com/47103479/88300428-6f77a580-cd3e-11ea-919e-5f4adcae5931.png)
+![img (1)](https://user-images.githubusercontent.com/47103479/88300435-70a8d280-cd3e-11ea-86ab-e4b5d6b3b840.png)
+![img (2)](https://user-images.githubusercontent.com/47103479/88300457-77cfe080-cd3e-11ea-9962-5dcc31dba90a.png)
+![img (3)](https://user-images.githubusercontent.com/47103479/88300460-77cfe080-cd3e-11ea-8aa9-d1b7b77248cd.png)
+![img (4)](https://user-images.githubusercontent.com/47103479/88300462-78687700-cd3e-11ea-819f-a6dbd4930905.png)
+![img (5)](https://user-images.githubusercontent.com/47103479/88300465-79010d80-cd3e-11ea-8241-5408ae318ce8.png)
+![img (6)](https://user-images.githubusercontent.com/47103479/88300467-79010d80-cd3e-11ea-93d8-b463be05c80c.png)
+![img (7)](https://user-images.githubusercontent.com/47103479/88300469-7999a400-cd3e-11ea-98a1-b8726afd84a5.png)
+![img (8)](https://user-images.githubusercontent.com/47103479/88300472-7999a400-cd3e-11ea-918b-3aeabb6b40bd.png)
+![img (9)](https://user-images.githubusercontent.com/47103479/88300450-76061d00-cd3e-11ea-8d93-e492aefb67a2.png)
+![img (10)](https://user-images.githubusercontent.com/47103479/88300595-9f26ad80-cd3e-11ea-8d02-bffc7f299b78.png)
+![img (11)](https://user-images.githubusercontent.com/47103479/88300453-77374a00-cd3e-11ea-9c72-6da707aaac79.png)
